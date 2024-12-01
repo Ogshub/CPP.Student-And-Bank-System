@@ -1,0 +1,8 @@
+﻿  System.cpp
+C:\Users\pinch\OneDrive\Desktop\CPP\CPPbasic01\HelloWorld\System.cpp(197,1): error C2062: type 'int' unexpected
+C:\Users\pinch\OneDrive\Desktop\CPP\CPPbasic01\HelloWorld\System.cpp(197,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\pinch\OneDrive\Desktop\CPP\CPPbasic01\HelloWorld\System.cpp(199,5): error C2562: 'choiceOption': 'void' function returning a value
+      C:\Users\pinch\OneDrive\Desktop\CPP\CPPbasic01\HelloWorld\System.cpp(159,6):
+      see declaration of 'choiceOption'
+  
+C:\Users\pinch\OneDrive\Desktop\CPP\CPPbasic01\HelloWorld\System.cpp(159,21): error C1075: '{': no matching token found

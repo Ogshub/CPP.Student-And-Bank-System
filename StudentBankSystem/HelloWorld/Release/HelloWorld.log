@@ -1,0 +1,6 @@
+﻿  HelloWorld.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\pinch\OneDrive\Desktop\CPP\CPPbasic01\HelloWorld\HelloWorld.cpp(9): error C4700: uninitialized local variable 'x' used
+LINK : fatal error LNK1257: code generation failed
