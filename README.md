@@ -1,1 +1,1 @@
-A simple student and bank management system made using C++ for practice purposes.
+A basic Student and Bank Management System created using C++ for practice purposes.
